@@ -1,3 +1,6 @@
 {
-    "terminal.integrated.allowMnemonics": true
+    "terminal.integrated.allowMnemonics": true,
+    "cSpell.words": [
+        "Laravel"
+    ]
 }
